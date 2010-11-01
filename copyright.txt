@@ -1,0 +1,2 @@
+Copyright (c) 1990-2010, James R. Larus.
+All rights reserved.
